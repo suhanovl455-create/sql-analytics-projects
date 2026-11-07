@@ -1,0 +1,4 @@
+﻿name,closed_tickets,avg_resolution_hours,within_sla,sla_pct
+Документы,44,41.02,10,22.73
+Платежи,44,24.41,20,45.45
+Доступ,44,12.25,44,100.0
